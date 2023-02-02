@@ -1,0 +1,16 @@
+{
+    "name": "mytwitter928",
+    "version": "1.0.0",
+    "description": "My Twitter",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "mongoose": "6.9.0"
+    },
+    "author": "JG",
+    "license": "MIT"
+
+}
